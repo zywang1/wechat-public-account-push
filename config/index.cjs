@@ -17,33 +17,33 @@ const USER_CONFIG = {
   CITY: '上海',
 
   USERS: [
-//     {
-//       // 想要发送的人的名字
-//       name: '亲爱的小顾',
-//       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-//       id: 'otfM-5r56_SS_UJXSoQHVGBzhuaA',
-//       // 使用微信测试号：你想对他发送的模板消息的模板ID
-//       useTemplateId: 'kWji3-5lKJ84S7K-J7rhAzp8UgeclADAxEXt92bZ50Q',
-//       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-//       horoscopeDate: '04-14',
-//       festivals: [
-//         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-//         {
-//           type: '生日', name: '小王', year: '1997', date: '01-10',
-//         },
-//         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-//         {
-//           type: '生日', name: '小顾', year: '1997', date: '04-14',
-//         },
-//       ],
-//       // 我们在一起已经有xxxx天了的配置
-//       customizedDateList: [
-//         // 在一起的日子
-//         { keyword: 'love_day', date: '2022-11-11' },
-//         // 结婚纪念日
-//         //{ keyword: 'marry_day', date: '2022-09-09' },
-//       ],
-//     },
+    {
+      // 想要发送的人的名字
+      name: '亲爱的小顾',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: 'otfM-5r56_SS_UJXSoQHVGBzhuaA',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: 'mr8BviTQ6UbgUQ5XW2W4mA8vsSrmq0LgbjWSMHk_9RU',
+      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      horoscopeDate: '04-14',
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '生日', name: '小王', year: '1997', date: '01-10',
+        },
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '生日', name: '小顾', year: '1997', date: '04-14',
+        },
+      ],
+      // 我们在一起已经有xxxx天了的配置
+      customizedDateList: [
+        // 在一起的日子
+        { keyword: 'love_day', date: '2022-11-11' },
+        // 结婚纪念日
+        //{ keyword: 'marry_day', date: '2022-09-09' },
+      ],
+    },
     {
       // 想要发送的人的名字
       name: '亲爱的小顾',
