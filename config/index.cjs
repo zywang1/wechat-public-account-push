@@ -30,7 +30,7 @@ const USER_CONFIG = {
 //       festivals: [
 //         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
 //         {
-//           type: '*生日', name: '小王', year: '1997', date: '01-27',
+//           type: '*生日', name: '小王', year: '1997', date: '12-19',
 //         },
 //         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
 //         {
@@ -51,14 +51,14 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'otfM-5vihCkt8T-Fik_wk16BllBM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'gcSozqGSsiq1O1HDRaN33SLNd_jXtgPN_0iDln61-Cc',
+      useTemplateId: 'HAQy8EmucT67CB_Mq7FM7_BU3yj5GMHUEfCFz0gLD2Y',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-27',
       openUrl: 'https://wangxinleo.cn',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '小王', year: '1997', date: '01-27',
+          type: '*生日', name: '小王', year: '1997', date: '12-19',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
